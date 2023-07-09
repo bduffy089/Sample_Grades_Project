@@ -1,6 +1,5 @@
 # Sample_Grades_Project
 by Britney Duffy
-Sample Grades Project in Joy of Coding Bootcamp
 
 ## Instructions
 Write a program that reads in the csv file linked above and outputs the mean, median, and standard deviation
